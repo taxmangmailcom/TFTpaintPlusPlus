@@ -21,3 +21,6 @@
 //derives from class TouchScreen to implement multiple returns for getPoint to enable drag and drop
 
 //maybe soon I will separate out the drag and drop from the paint portion
+
+<img src="https://github.com/taxmangmailcom/TFTpaintPlusPlus/blob/main/IMG_8798.jpg" width="302" height="403">
+<img src="https://github.com/taxmangmailcom/TFTpaintPlusPlus/blob/main/IMG_8797.jpg" width="302" height="403">
